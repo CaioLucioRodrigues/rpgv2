@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/CaioLucioRodrigues/rpgv2/issues"
   },
-  "homepage": "https://github.com/CaioLucioRodrigues/rpgv2#readme"
+  "homepage": "https://github.com/CaioLucioRodrigues/rpgv2#readme",
+  "dependencies": {
+    "serve": "^12.0.0"
+  }
 }
