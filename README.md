@@ -1,2 +1,2 @@
 # rpgv2
-D&amp;D rules based NodeJs RPG
+D&D rules based NodeJs RPG
