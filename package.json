@@ -1,0 +1,25 @@
+{
+  "name": "rpgv2",
+  "version": "1.0.0",
+  "description": "D&D rules based NodeJs RPG",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaioLucioRodrigues/rpgv2.git"
+  },
+  "keywords": [
+    "RPG"
+  ],
+  "author": "Caio Lucio Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaioLucioRodrigues/rpgv2/issues"
+  },
+  "homepage": "https://github.com/CaioLucioRodrigues/rpgv2#readme"
+}
